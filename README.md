@@ -37,6 +37,7 @@ A Java-based hotel management system for managing room reservations using MySQL 
    set DB_PASSWORD=your_password
 
 3. Compile & Run
+   
    javac -cp ".;mysql-connector-j-9.6.0.jar" HotelReservationSystem.java
    java -cp ".;mysql-connector-j-9.6.0.jar" HotelReservationSystem
 
